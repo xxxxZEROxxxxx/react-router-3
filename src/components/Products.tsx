@@ -19,7 +19,7 @@ const Products = () => {
 
   return (
     <>
-      <h2>Products</h2>
+      <h2>Products d</h2>
       {isLoading ? (
         <p>Loading ...</p>
       ) : (
