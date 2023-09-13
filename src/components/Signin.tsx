@@ -47,7 +47,7 @@ const Signin = () => {
             )}
           </div>
           <div className="mb-3">
-            <label className="form-label">Password</label>
+            <label className="form-label" htmlFor="password">Password</label>
             <input
               type="password"
               className="form-control"
